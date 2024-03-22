@@ -64,7 +64,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Video Demonstration
 
-![Alt Text](/Employee-Management-System/Employee-Management-System/assets/Node-video.mp4)
+[video](https://drive.google.com/file/d/1FQJziw2O1d6RVGS_iR6c3cGdj6rw4VNX/view?usp=sharing)
 
 ## License
 
